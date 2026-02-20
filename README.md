@@ -85,5 +85,22 @@ to access Swagger UI.
 
 ---
 
+## API Preview
+
+### 🔹 Swagger UI
+![Swagger UI](screenshots/swagger-ui.png)
+
+### 🔹 User Registration
+![Register](screenshots/register-success.png)
+
+### 🔹 Login Success
+![Login](screenshots/login-success.png)
+
+### 🔹 Leaderboard Response
+![Leaderboard](screenshots/leaderboard-response.png)
+
+### 🔹 Database View
+![Database](screenshots/database-view.png)
+
 
 
