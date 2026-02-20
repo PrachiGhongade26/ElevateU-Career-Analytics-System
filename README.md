@@ -100,7 +100,7 @@ to access Swagger UI.
 ![Leaderboard](screenshots/leaderboard-response.png)
 
 ### 🔹 Database View
-![Database](screenshots/database-view.png)
+![Database](screenshots/database-view.png) 
 
 
 
